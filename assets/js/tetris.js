@@ -1,4 +1,5 @@
 // John Supsupin, 2013, Village88.com - Tetrijs
+// johns@village88.com
 
 function playTetris()
 {
@@ -422,7 +423,7 @@ function playTetris()
 	      }
 	    }, 'text');
 
-		$("#tetrisContainer").html('<img style="width: 222px; top: 200px;" src="/assets/img/game_over.png" alt=""><div><h3 id="game_restart">Game will restart!<h3></div>');
+		$("#tetrisContainer").html('<img style="width: 222px; top: 200px;" src="  assets/img/game_over.png" alt=""><div><h3 id="game_restart">Game will restart!<h3></div>');
 	}
 
 	//custom function to shuffle a 1D array
